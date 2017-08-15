@@ -1,0 +1,5 @@
+name: KnowNixBungeecordSystem
+author: Tailo
+version: 1.0
+
+main: me.Tailo.KnowNixBungeecordSystem.System.main
